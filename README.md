@@ -1,5 +1,6 @@
-# Front-End-Projetos
-Criei esse repositório para organizar todos os repositórios que contém projetos de desenvolvimento web (Front-End). Se quiser encontrar algum específico, basta procurar por sua categoria e clicar nele :)
+<h1>Projetos Front-End</h1>
+Criei esse repositório para organizar todos os repositórios que contém projetos de desenvolvimento web (Front-End) :)
+<br>
 <br>
 <ul>
   <li><a href="https://github.com/GabrielChiarelli/mario-odyssey-estudo">Mario Odyssey</a></li>
